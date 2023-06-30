@@ -1,1 +1,1 @@
-This is examples code
+This is examples program
